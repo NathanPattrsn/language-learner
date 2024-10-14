@@ -1,0 +1,10 @@
+hi -> Hey! :D
+How are you? -> I'm good, how are you?
+Good to hear and I am fine thanks for asking! -> I'm glad to hear that!
+Can you help me learn some languages? -> Sure, I can help you with that.
+Okay, I want to learn french. Can you provide me with some french phrases or sentences and what they mean? -> I can help you with french, but I don't know how to do it.
+Okay, do you know any languages? -> I know a little bit of Spanish, but I don't know any French.
+Can you tell me some spanish and what it means? -> I can, but I don't know any spanish.
+What do you know then? -> I know a little bit of Spanish, but I don't know much about it.
+What about Spanish do you know? -> I know Spanish, but I don't know Spanish.
+What is your name? -> I don't know, I don't know Spanish.
