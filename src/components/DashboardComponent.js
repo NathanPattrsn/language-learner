@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function DashboardComponent() {
-  const [progress, setProgress] = useState({
+  const [progress] = useState({
     lessonsCompleted: 5,
     quizzesTaken: 3,
     speakingPractice: 20, // minutes
