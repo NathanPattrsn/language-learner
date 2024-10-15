@@ -5,7 +5,7 @@ function LessonComponent() {
 
   useEffect(() => {
     const fetchLessons = async () => {
-      const response = await fetch('http://localhost:5000/api/recommended-lessons'); // Correct URL
+      const response = await fetch('https://language-learner-vyfk.onrender.com//api/recommended-lessons'); // Correct URL
       const data = await response.json();
       setLessons(data);
     };    

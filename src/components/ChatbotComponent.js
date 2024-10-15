@@ -6,7 +6,7 @@ function ChatbotComponent() {
 
   const handleUserInput = async (e) => {
     e.preventDefault();
-    const response = await fetch('http://localhost:5000/api/chatbot', {
+    const response = await fetch('https://language-learner-vyfk.onrender.com//api/chatbot', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ message: userInput }),
