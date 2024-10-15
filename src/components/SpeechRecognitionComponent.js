@@ -17,7 +17,7 @@ function SpeechRecognitionComponent() {
   };
 
   const analyzePronunciation = async (text) => {
-    const response = await fetch('https://language-learner-vyfk.onrender.com//api/analyze-pronunciation', {
+    const response = await fetch('https://language-learner-vyfk.onrender.com/api/analyze-pronunciation', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ text }),
